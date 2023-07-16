@@ -1,5 +1,7 @@
 # Big data
 *.arrow
+**/dataset_info.json
+**/state.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
